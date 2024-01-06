@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-077&label=Profile%20views&color=0e75b6&style=flat" alt="amit-077" /> </p>
 
-- 🔭 I’m currently working on **Web | App**
+- 🔭 I’m currently working on **Web | App Development**
 
 - 🌱 I’m currently learning **Socket.io, Prisma, Typescript**
 
