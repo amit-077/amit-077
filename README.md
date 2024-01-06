@@ -4,16 +4,25 @@
 <br>
 <!-- <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="amit-077" width="300" height="300"/> </p> -->
 
-- 🔭 I’m currently working on **Web | App Development**
+<table>
+<tr>
+<td>- 🔭 I’m currently working on **Web | App Development**</td>
+</tr>
+<tr>
+<td>- 🌱 I’m currently learning **Socket.io, Prisma, Typescript**</td>
+</tr>
+<tr>
+<td>- 💬 **Ask me about my code that never breaks, until someone looks at it.**</td>
+</tr>
+<tr>
+<td>- 📫 How to reach me : **amitkamat918@gmail.com**</td>
+</tr>
+<tr>
+<td>- ⚡ Fun fact - **My code has more comments than my Instagram posts.**</td>
+</tr>
 
-- 🌱 I’m currently learning **Socket.io, Prisma, Typescript**
 
-- 💬 **Ask me about my code that never breaks, until someone looks at it.**
-
-- 📫 How to reach me : **amitkamat918@gmail.com**
-
-- ⚡ Fun fact - **My code has more comments than my Instagram posts.**
-
+</table>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
