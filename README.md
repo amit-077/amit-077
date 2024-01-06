@@ -1,9 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hey 👋, I'm Amit Kamat</h1>
 <h3 align="center">Making the web🌐 and apps📱 do amazing things.</h3>
-
-<div display="flex">
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="amit-077" width="300" height="300"/> </p>
+<!-- <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="amit-077" width="300" height="300"/> </p> -->
 
 - 🔭 I’m currently working on **Web | App Development**
 
@@ -15,7 +13,6 @@
 
 - ⚡ Fun fact - **My code has more comments than my Instagram posts.**
 
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
