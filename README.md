@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Socket.io, Prisma, Typescript**
 
-- 💬 Ask me about **my code that never breaks, until someone looks at it.**
+- 💬 **Ask me about my code that never breaks, until someone looks at it.**
 
-- 📫 How to reach me **amitkamat918@gmail.com**
+- 📫 How to reach me : **amitkamat918@gmail.com**
 
 - ⚡ Fun fact **My code has more comments than my Instagram posts.**
 
