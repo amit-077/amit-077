@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hey 👋, I'm Amit Kamat</h1>
-<h3 align="center">Creating digital experiences for web🌐 and mobile📱</h3>
+<h3 align="center">Making the web🌐 and apps📱 do amazing things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-077&label=Profile%20views&color=0e75b6&style=flat" alt="amit-077" /> </p>
 
