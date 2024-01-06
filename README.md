@@ -26,5 +26,5 @@
 <div align="center">
 <img align="center" height="260" width="415" display="block" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-077&show_icons=true&locale=en&layout=compact" alt="amit-077" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-077&" alt="amit-077" />
+<img align="center" src="https://streak-stats.demolab.com/?user=amit-077" alt="amit-077" />
 </div>
