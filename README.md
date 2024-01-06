@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **amitkamat918@gmail.com**
 
-- ⚡ Fun fact **My code has more comments than my Instagram posts.**
+- ⚡ Fun fact - **My code has more comments than my Instagram posts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
