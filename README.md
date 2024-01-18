@@ -4,7 +4,7 @@
 <br>
 <!-- <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="amit-077" width="300" height="300"/> </p> -->
 
-- 🔭 I’m currently working on **Web | App Development**
+- 🔭 I’m currently working on **Web Development | App Development**
 
 - 🌱 I’m currently learning **Socket.io, Prisma, Typescript**
 
